@@ -1,6 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Code2, Home, BookOpen, PlayCircle, HelpCircle, LogIn } from "lucide-react";
+import { Code2, Home, BookOpen, PlayCircle, LogIn } from "lucide-react";
 import {
   NavigationMenu,
   NavigationMenuContent,
